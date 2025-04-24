@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>java</title>
+</head>
+<body>
+    <h1>lets use java tell time</h1>
+    <button type="button" onclick="document.getElementById('firstjs').innerHTML= Date()">what is the date and time?</button>
+    <p id="firstjs"></p>
+
+
+
+
+
+
+</body>
+</html>
